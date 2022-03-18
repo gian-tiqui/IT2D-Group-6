@@ -1,1 +1,4 @@
-Tiqui, Michael Gian M.
+index.html
+Blogs.html
+People.html
+stylesheet.css
