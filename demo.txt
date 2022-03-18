@@ -1,4 +1,15 @@
 index.html
+  -home page
+  -must have navigation: Home, Blogs, People
+  -apply simple design
 Blogs.html
+  -search tech related articles
+  -insert it in this page
+  -apply simple layout
+  -don't forget to indicate the source link for each article.
+  -put a disclaimer somewhere in this page that this is just for educational purposes only.
 People.html
+  -create a simple page where with the photos (can either be your real photo or an avatar), their names, a short description about them.
 stylesheet.css
+  -this is optional
+  -you can do the styling inside the html file itself if that works better for you.
